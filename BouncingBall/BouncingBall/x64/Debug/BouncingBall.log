@@ -1,0 +1,6 @@
+﻿  project_1.cpp
+C:\Users\nomin\Desktop\BouncingBall12\BouncingBall\project_1.cpp(61,18): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\nomin\Desktop\BouncingBall12\BouncingBall\project_1.cpp(62,18): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
+C:\Users\nomin\Desktop\BouncingBall12\BouncingBall\project_1.cpp(71,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\nomin\Desktop\BouncingBall12\BouncingBall\project_1.cpp(74,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  BouncingBall.vcxproj -> C:\Users\nomin\Desktop\BouncingBall12\x64\Debug\BouncingBall.exe
